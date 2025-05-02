@@ -1,0 +1,11 @@
+html {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Monospace;
+    font-size: 20px;
+    max-width: 60%;
+}
+
+img { border: solid 5px #ffffff; }
+a { color: #00ff00; }
+a:hover { color: #008800; }
